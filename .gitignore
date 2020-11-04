@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+# Virtual Env Directories/Files
+Lib
+pyvenv.cfg
+Scripts
+
+# Back scripts I don't want to push
+main.py_before_cut_up
+
